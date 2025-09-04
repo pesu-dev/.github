@@ -9,8 +9,8 @@
 <p align="center">
   <a href="https://github.com/pesu-dev"><img src="https://img.shields.io/github/stars/pesu-dev?style=social" alt="GitHub Stars"></a>
   <a href="https://github.com/pesu-dev"><img src="https://img.shields.io/github/followers/pesu-dev?style=social" alt="GitHub Followers"></a>
-  <a href="https://discord.gg/eZ3uFs2"><img src="https://img.shields.io/discord/1095736889679237170?label=Join%20Discord&logo=discord&style=social" alt="Discord"></a>
-  
+  <a href="https://discord.gg/eZ3uFs2"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&style=social" alt="Discord">
+</a>
 </p>
 
 <p align="center">
@@ -28,7 +28,9 @@ We design and maintain open-source projects that students, clubs, and communitie
 * 🐍 [pesuacademy-py](https://github.com/pesu-dev/pesuacademy) – A Python wrapper for PESU Academy, offering read-only access to the platform  
 * 🔐 [PESU OAuth2](https://github.com/pesu-dev/oauth2) – OAuth2 interaction layer to support application development across clubs and groups  
 * 🤖 [askPESU](https://github.com/pesu-dev/askpesu) – A QA bot for PES students  
-* 🌐 [PESU-API](https://github.com/pesu-dev/pesu-api) – A set of APIs built on top of our existing projects, powering many of our tools  
+* 🌐 [PESU-API](https://github.com/pesu-dev/pesu-api) – A set of APIs built on top of our existing projects, powering many of our tools
+* 🔗 [Auth Link Portal](https://github.com/pesu-dev/auth-link-portal) – A website built for verification of students into the PESU Discord server
+  
 
 > [!NOTE]  
 > Most of these projects are _live_ in production and used by students every day. They're not just class projects — they're real, impactful tools built by the community 💡.
