@@ -9,8 +9,7 @@
 <p align="center">
   <a href="https://github.com/pesu-dev"><img src="https://img.shields.io/github/stars/pesu-dev?style=social" alt="GitHub Stars"></a>
   <a href="https://github.com/pesu-dev"><img src="https://img.shields.io/github/followers/pesu-dev?style=social" alt="GitHub Followers"></a>
-  <a href="https://discord.gg/eZ3uFs2">
-  <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&style=social" alt="Discord">
+  <a href="https://discord.gg/eZ3uFs2"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&style=social" alt="Discord">
 </a>
 </p>
 
