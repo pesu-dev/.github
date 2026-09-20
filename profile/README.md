@@ -25,12 +25,11 @@
 We design and maintain open-source projects that students, clubs, and communities at PESU actually use. Some highlights include:
 
 * 🔑 [PESUAuth](https://github.com/pesu-dev/auth) – Authentication API used by the PESU Discord server and other clubs/servers  
-* 🐍 [pesuacademy-py](https://github.com/pesu-dev/pesuacademy) – A Python wrapper for PESU Academy, offering read-only access to the platform  
-* 🔐 [PESU OAuth2](https://github.com/pesu-dev/oauth2) – OAuth2 interaction layer to support application development across clubs and groups  
 * 🤖 [askPESU](https://github.com/pesu-dev/ask-pesu) – A QA bot for PES students  
-* 🌐 [PESU-API](https://github.com/pesu-dev/pesu-api) – A set of APIs built on top of our existing projects, powering many of our tools
-* 🔗 [Auth Link Portal](https://github.com/pesu-dev/auth-link-portal) – A website built for verification of students into the PESU Discord server
-  
+* 🤖 [PESU Discord Bot](https://github.com/pesu-dev/discord_bot) – Community management and verification bot for the PESU Discord server  
+* 🔐 [PESU OAuth2](https://github.com/pesu-dev/oauth2) – OAuth2 interaction layer to support application development across clubs and groups  
+* 🌐 [PESU-API](https://github.com/pesu-dev/pesu-api) – A set of APIs built on top of our existing projects, powering many of our tools  
+* 🐍 [pesuacademy-py](https://github.com/pesu-dev/pesuacademy) – A Python wrapper for PESU Academy, offering read-only access to the platform  
 
 > [!NOTE]  
 > Most of these projects are _live_ in production and used by students every day. They're not just class projects — they're real, impactful tools built by the community 💡.
